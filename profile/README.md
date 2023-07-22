@@ -29,7 +29,8 @@ There are 2 ZKPs that need to be generated in order to complete 1 x-border trans
 - Proof of Venmo payment from USD payer to USD offramper
 - Proof of Revolut payment from EUR onramper to EUR receiver
 
-![zkp2p X-border (2)](https://github.com/zk-x-border/.github/assets/6797244/f96187ad-6e72-45f5-8d71-b2003fea2313)
+![zkp2p X-border (3)](https://github.com/zk-x-border/.github/assets/6797244/d5b4e7db-faf9-4226-8ad7-39cfd381f0ac)
+
 
 
 
