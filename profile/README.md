@@ -1,4 +1,6 @@
 # ZK X Border (By Team Eastern Union)
+<img width="500" alt="Screenshot 2023-07-23 at 8 49 40 AM" src="https://github.com/zk-x-border/.github/assets/6797244/7a148042-60a1-4282-8544-96c622d81e2f">
+
 Trustless and 0 fee international remittance using ZK proofs, Uniswap V3, Revolut and Venmo
 
 Demo: https://zk-x-border-ui.vercel.app
