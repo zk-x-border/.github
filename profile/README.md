@@ -1,6 +1,8 @@
 # ZK X Border (By Team Eastern Union)
 Trustless and 0 fee international remittance using ZK proofs, Uniswap V3, Revolut and Venmo
 
+Demo: https://zk-x-border-ui.vercel.app
+
 ## Problem
 - Cross border remittance fees are too high (e.g. Paypal) or slow (TransferWise)
 - DeFi already offers better rates than TradFi cross border payment solutions for certain forex pairs (e.g. USDC/agEUR on Uniswap/Curve price is up to 1% better for up to $10k swaps)
